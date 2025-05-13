@@ -145,6 +145,7 @@ const SignUpPage = () => {
         </div>
 
         {/* RIGHT SIDE */}
+
         <div className="hidden lg:flex w-full lg:w-1/2 bg-primary/10 items-center justify-center">
           <div className="max-w-md p-8">
             {/* Illustration */}
@@ -153,7 +154,7 @@ const SignUpPage = () => {
             </div>
 
             <div className="text-center space-y-3 mt-6">
-              <h2 className="text-xl font-semibold">Connect with language partners worldwide</h2>
+              <h2 className="text-xl font-semibold">Connect with friends/loved ones partners worldwide</h2>
               <p className="opacity-70">
                 Practice conversations, make friends, and improve your language skills together
               </p>
